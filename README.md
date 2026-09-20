@@ -2,10 +2,10 @@
 # Employee Management System 🚀
 
 ## Live Demo  ->
-[Watch the Live webapplication](https://babureddynr.github.io/spring-html-pages/employee.html)
+[Watch the Live webapplication](https://Divyansh-Verma123.github.io/spring-html-pages/employee.html)
 
 
-![Employee Management System](https://github.com/babureddynr/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual image -->
+![Employee Management System](https://github.com/Divyansh-Verma123/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual image -->
 
 
 
@@ -28,7 +28,7 @@ A full-fledged **Employee Management System** built using **Spring Boot**. It al
 
 1. Clone the repo:
    ```plaintext
-   git clone https://github.com/babureddynr/employee-management-system-springboot.git
+   git clone https://github.com/Divyansh-Verma123/employee-management-system-springboot.git
    ```
 
    
@@ -36,11 +36,11 @@ A full-fledged **Employee Management System** built using **Spring Boot**. It al
 This project is an Employee Management System built using Spring Boot.
 
 ## Live Demo  ->
-[Watch the Live webapplication](https://babureddynr.github.io/spring-html-pages/employee.html)
+[Watch the Live webapplication](https://Divyansh-Verma123.github.io/spring-html-pages/employee.html)
 
 
 ## Screenshots 📸
-![Screenshot](https://github.com/babureddynr/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual screenshot -->
+![Screenshot](https://github.com/Divyansh-Verma123/employee-management-system-springboot/blob/main/Emp-scrrenshot.png) <!-- Replace with an actual screenshot -->
 
 
 ## API Endpoints 🌐
@@ -65,5 +65,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by [babureddynr](https://github.com/babureddynr)
+Made with ❤️ by [Divyansh-Verma123](https://github.com/Divyansh-Verma123)
 ```
+
